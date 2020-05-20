@@ -8,7 +8,6 @@ Desktop application build using JAVA Swing and MSSQL which includes functionalit
 
 ```
 JDK 8 or newer
-Netbeans (if you want to make changes)
 MSSQL
 ```
 
