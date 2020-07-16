@@ -36,5 +36,5 @@ git clone https://github.com/enokryeziu/supply-chain-management-software-java.gi
 
 ## Version
 ```
-Beta Version 2018
+Version 2018
 ```
