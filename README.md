@@ -2,6 +2,10 @@
 
 Desktop application build using JAVA Swing and MSSQL which includes functionality of managing users, purchase-order processing, inventory management, generate sales report etc 
 
+### Co-Author
+
+[@rinaadili](https://github.com/rinaadili)
+
 ## Getting Started
 
 ### Prerequisites
